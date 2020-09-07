@@ -10,3 +10,9 @@ When you change laptops, and ya really need that repo back
 * On your new laptop, clone this repo then move the git_me.txt and git_repos.sh into the parent dir you want to hold all your git repos
 
 * Run git_repos.sh
+
+### For Macs
+
+* Run brew_list.sh
+
+* Run import_brewlist.sh
